@@ -22,7 +22,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | Ksyxis | Removes spawn chunks |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
-| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/files/mods-n-stuff/opti-not-so-fine.md) |
+| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/blob/main/mods-n-stuff/opti-not-so-fine.md) |
 | Particle Core | Redundant with Async Particles |
 | Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -61,7 +61,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | Ksyxis | Removes spawn chunks |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
-| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/files/mods-n-stuff/opti-not-so-fine.md) |
+| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/blob/main/mods-n-stuff/opti-not-so-fine.md) |
 | Particle Core | Redundant with Async Particles |
 | Redirector [Modern]/Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -100,7 +100,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
-| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/files/mods-n-stuff/opti-not-so-fine.md) |
+| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/blob/main/mods-n-stuff/opti-not-so-fine.md) |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -134,7 +134,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
-| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/files/mods-n-stuff/opti-not-so-fine.md) |
+| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/blob/main/mods-n-stuff/opti-not-so-fine.md) |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -164,7 +164,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Hydrogen/Helium | Redundant with FerriteCore |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
-| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/files/mods-n-stuff/opti-not-so-fine.md) |
+| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/blob/main/mods-n-stuff/opti-not-so-fine.md) |
 | Performant | Incompatible and redundant with RoadRunner |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
@@ -210,7 +210,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | CoFH Tweaks | Redundant with ArchaicFix |
 | FastCraft | Incompatible with Angelica |
 | Neodymium | Incompatible with Angelica/Beddium |
-| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/files/mods-n-stuff/opti-not-so-fine.md) |
+| OptiFine | [Various reasons](https://github.com/MiguelNinja19/MC-Optimization-Guide/blob/main/mods-n-stuff/opti-not-so-fine.md) |
 | OptimizationsAndTweaks | Incompatible with Angelica/Beddium |
 | Redirectionor [Retro] | Compatibility issues, negligible performance improvement |
 
