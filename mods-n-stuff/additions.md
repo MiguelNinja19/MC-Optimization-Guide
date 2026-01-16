@@ -1,4 +1,4 @@
-## Some other mods which may be useful in some situations (eg. big modpacks)
+## Some other mods which may be useful in some specific situations.
 
 | Mod | Mod Loader | Note | Version | Client/Server |
 |:---:|:---:|:---:|:---:|:---:|
