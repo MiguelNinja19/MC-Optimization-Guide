@@ -22,5 +22,6 @@ GraalVM 24 with G1GC performs best here, followed by GraalVM 24 with Generationa
 
 ### Data from all 10 runs:
 
-![all the 10 runs](<img width="1611" height="998" alt="outro java bench marks" src="https://github.com/user-attachments/assets/4c62536e-20c1-42d8-9322-d14840bc8607" />)
+![all the 10 runs](<img width="1611" height="998" alt="outro java bench marks" src="https://github.com/user-attachments/assets/a5fd9fcc-c0ea-40b0-a949-54e208986eae" />
+)
 
