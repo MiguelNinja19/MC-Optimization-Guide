@@ -13,12 +13,14 @@ Test system specs:
 
 # Game loading times
 
-An average of 10 runs of every Java version and garbage collector. This was tested in an [optimized StoneBlock instance](https://github.com/Radk6/MC-Optimization-Guide/blob/main/modpack-specific/packs-1.12.2.md#stoneblock). Java 8 and 21 were from Adoptium. The time was measured with VintageFix.
+An average of 10 runs of every Java version and garbage collector. This was tested in an [optimized StoneBlock instance](packs-1.12.2.md#stoneblock). Java 8 and 21 were from Adoptium. The time was measured with VintageFix.
 
-![average](https://github.com/user-attachments/assets/bdeb79d7-2ae6-4f71-ac8d-c9cff1d7fdf8)
+![average](<img width="924" height="571" alt="java bench marks" src="https://github.com/user-attachments/assets/c0cdf55d-4401-4c35-8289-3e56ecd5a3d2" />)
+
 
 GraalVM 24 with G1GC performs best here, followed by GraalVM 24 with Generational ZGC. Java 8 is considerably slower than everything else.
 
 ### Data from all 10 runs:
 
-![all 10 runs](https://github.com/user-attachments/assets/ae575d18-40a6-472d-b1a0-2fabebd656df)
+![all 10 runs](<img width="1611" height="998" alt="outro java bench marks" src="https://github.com/user-attachments/assets/4c62536e-20c1-42d8-9322-d14840bc8607" />)
+
